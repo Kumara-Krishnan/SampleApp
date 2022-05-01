@@ -9,7 +9,7 @@
   <Identity
     Name="5098861a-1f1d-434d-a0ef-e6945af0bb6c"
     Publisher="CN=KumaraKrishnan"
-    Version="1.0.2.0" />
+    Version="1.0.3.0" />
 
   <mp:PhoneIdentity PhoneProductId="5098861a-1f1d-434d-a0ef-e6945af0bb6c" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
